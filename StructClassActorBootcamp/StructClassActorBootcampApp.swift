@@ -11,7 +11,7 @@ import SwiftUI
 struct StructClassActorBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            StructClassActorBootcamp()
+            StructClassActorBootcampHomeView()
         }
     }
 }
